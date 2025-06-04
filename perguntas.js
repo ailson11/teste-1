@@ -1,19 +1,24 @@
 criaCartao(
     'Neymar',
     'Quem é neymar?',
-    'Neymar é um dos maiores jogadores de futebol do Brasil, conhecido por sua habilidade, dribles e velocidade. Começou no Santos, jogou no Barcelona ao lado de Messi, depois foi para o PSG por uma transferência recorde. Também é destaque na seleção brasileira, conquistando títulos como a Copa das Confederações e a medalha de ouro nas Olimpíadas de 2016. Famoso fora de campo, é uma das maiores estrelas do esporte mundial.'
+    'Neymar é um dos maiores jogadores de futebol do Brasil, com passagens por Santos, Barcelona e PSG. Destaca-se pela habilidade e velocidade, sendo também uma estrela da seleção brasileira.
+
+
+
+
+'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Gols',
+    'Quantos gols tem Neymar atualmente',
+    'Ao longo de sua carreira, Neymar já fez 442 gols defendendo as camisas de Santos, Barcelona, PSG, Al Hilal e da seleção brasileira principal.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Clubes',
+    'Por quantos clubes Neymar já atuou?',
+    'Neymar já atuou por um total de 3 clubes: Santos FC, Barcelona, PSG e atualmente ocorreu sua volta para o clube Santos'
 )
 
 criaCartao(
