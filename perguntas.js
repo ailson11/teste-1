@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Neymar',
+    'Quem é neymar?',
+    'Neymar é um dos maiores jogadores de futebol do Brasil, conhecido por sua habilidade, dribles e velocidade. Começou no Santos, jogou no Barcelona ao lado de Messi, depois foi para o PSG por uma transferência recorde. Também é destaque na seleção brasileira, conquistando títulos como a Copa das Confederações e a medalha de ouro nas Olimpíadas de 2016. Famoso fora de campo, é uma das maiores estrelas do esporte mundial.'
 )
 
 criaCartao(
